@@ -1,4 +1,4 @@
-# homeautomation_dashboard
+# Flutter Rasbperry Pi Home Dashboard
 
 An MQTT home automation dashboard written in Flutter and run using FlutterPi (https://github.com/ardera/flutter-pi) on a RaspberryPi with the official touchscreen.
 
